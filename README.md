@@ -1,4 +1,4 @@
-# Orders-notifications-Management-System
+# Orders Notifications Management System - Java Spring Boot
 ## Requirements
 The “Orders and Notifications Management” module provide the following features:
 
